@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Desert Clock
+Name[ru]=Цыфровые часы
+Comment=Clock screensaver
+Icon=desertclock
+Exec=/usr/lib/xscreensaver/desertclock -root
+TryExec=/usr/lib/xscreensaver/desertclock
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;Screensaver;
+OnlyShowIn=GNOME;
+X-Ubuntu-Gettext-Domain=gnome-screensaver

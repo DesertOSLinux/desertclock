@@ -1,0 +1,8 @@
+Package: desertclock
+Version: 1.0
+Architecture: amd64
+Maintainer: Kernitskiy Yaroslav
+Depends: libc6 (>= 2.4), libsdl-gfx1.2-5 (>= 2.0.25), libsdl-ttf2.0-0, libsdl1.2debian (>= 1.2.11), libx11-6
+Section: misc
+Priority: extra
+Description: Хранитель экрана в виде цифровых часов
